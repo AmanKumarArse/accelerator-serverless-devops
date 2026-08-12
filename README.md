@@ -26,8 +26,7 @@ The project is designed to demonstrate practical skills in:
 
 ## 🏗️ Architecture
 
-![DevOps Accelerator Architecture](Architecture Poster/architecture.png)
-
+![Pipeline Overview](./architecture/architecture.png)
 
 ```text
                          ┌──────────────────────┐
