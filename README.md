@@ -585,8 +585,8 @@ This project is intended for learning, demonstration and portfolio purposes.
 
 **Aman Kumar Arse**
 
-- GitHub: `github.com/AmanKumarArse`
-- LinkedIn: `linkedin.com/in/aman-kumar-arse-5738b41b3/`
+- GitHub:    https://github.com/AmanKumarArse/accelerator-serverless-devops.git
+- LinkedIn:  https://www.linkedin.com/in/aman-kumar-arse-5738b41b3/
 
 ---
 
